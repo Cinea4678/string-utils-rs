@@ -1,0 +1,17 @@
+[package]
+name = "string-utils-rs"
+description = "The Rust implement of the Java library Apache Commons Lang3 StringUtils."
+version = "0.0.0"
+edition = "2021"
+authors = ["Zhang Yao <cineazhan@icloud.com>"]
+license = "MIT OR Apache-2.0"
+rust-version = "1.56"
+readme = "README.md"
+repository = "https://github.com/Cinea4678/string-utils-rs/"
+homepage = "https://docs.rs/string-utils-rs"
+documentation = "https://docs.rs/string-utils-rs"
+keywords = ["string", "string-utils", "utils"]
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
