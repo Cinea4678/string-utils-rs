@@ -4,6 +4,7 @@
 #[crate_name = "string-utils"]
 
 mod string_utils;
+pub mod error;
 
 pub use string_utils::StringUtilsExt;
 
